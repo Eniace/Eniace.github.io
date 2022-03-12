@@ -1,11 +1,24 @@
-姓名（Name）：Yuchen Xiong
+Name: Yuchen Xiong
 
-电子邮箱（Email）：eniaca_github@outlook.com
+Email：eniaca_github@outlook.com
 
-研究方向（Research）：
+Research：
 
-量化交易策略（Quantitative Trading in stock/futures/option）
+Quantitative Trading in stock/futures/option
 
-风险控制策略（Risk Control）
+Risk Control
 
-动态对冲（Dynamic Hedging）
+Dynamic Hedging
+
+
+姓名：Xiong Yuchen
+
+电子邮箱：eniaca_github@outlook.com
+
+研究方向：
+
+量化交易策略
+
+风险控制策略
+
+动态对冲
