@@ -12,7 +12,7 @@ Dynamic Hedging
 
 Github repository
 
-
+resume_with_latex
 
 姓名：Xiong Yuchen
 
