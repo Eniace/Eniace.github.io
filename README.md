@@ -10,6 +10,9 @@ Risk Control
 
 Dynamic Hedging
 
+Github repository
+
+
 
 姓名：Xiong Yuchen
 
@@ -22,3 +25,5 @@ Dynamic Hedging
 风险控制策略
 
 动态对冲
+ 
+Github 
